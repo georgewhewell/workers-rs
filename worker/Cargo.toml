@@ -60,7 +60,7 @@ features = ["js"]
 optional = true
 
 [dependencies.axum]
-version = "0.7"
+version = "0.8"
 optional = true
 default-features = false
 
